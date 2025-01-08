@@ -33,9 +33,8 @@
     <thead class="table-dark">
       <tr>
         <th>Produto</th>
-        <th>Fornecedor</th>
         <th class="col-md-1">Quantidade</th>
-        <th class="col-md-2">Data de Saída</th>
+        <th>Data de Saída</th>
         <th class="col-md-1">Ações</th>
       </tr>
     </thead>
@@ -43,7 +42,6 @@
       {% for outflow in outflows %}
       <tr>
         <td>{{ outflow.product }}</td>
-        <td>{{ outflow.supplier }}</td>
         <td>{{ outflow.quantity }}</td>
         <td>{{ outflow.created_at }}</td>
         <td>
