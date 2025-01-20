@@ -82,7 +82,7 @@ Após isso, o sistema estará pronto para ser acessado em:
 ![alt text](images/home1.png)
 
 ## IA insight
-![alt text](images/home1.png)
+![alt text](images/IA_insight.png)
 
 ## Lista de Produtos
-![alt text](images/home1.png)
+![alt text](images/products_list.png)
