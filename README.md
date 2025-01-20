@@ -74,3 +74,14 @@ python manage.py runserver
 
 Após isso, o sistema estará pronto para ser acessado em:
 [http://localhost:8000](http://localhost:8000)
+
+## Exemplos
+
+# Dashboard
+![alt text](images/home1.png)
+
+# IA insight
+![alt text](images/home1.png)
+
+# Lista de Produtos
+![alt text](images/home1.png)
